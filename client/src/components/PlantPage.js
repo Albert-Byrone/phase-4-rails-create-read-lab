@@ -12,6 +12,7 @@ function PlantPage() {
     fetch("/plants")
       .then((r) => r.json())
       .then((plantsArray) => {
+        console.log(plantsArray)
         setPlants(plantsArray);
       });
   }, []);

@@ -36,6 +36,16 @@ Plant.create!([
     name: 'Fiddle Leaf Fig',
     image: './images/fiddle-leaf-fig.jpg',
     price: 55
+  },
+  {
+    name: 'Fiddle Fig',
+    image: './images/fiddle-leaf-fig.jpg',
+    price: 55
+  },
+  {
+    name: 'Fiddle Leaf Fig',
+    image: './images/fiddle-leaf-fig.jpg',
+    price: 55
   }
 ])
 
